@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/ui/products",
+        "./src/ui/main"
+    ]
+}
