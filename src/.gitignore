@@ -1,0 +1,45 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Logs ---
+*.log
+
+# --- Ambiente virtual ---
+venv/
+.env
+
+# --- Configurações locais ---
+.vscode/
+
+# --- Arquivos específicos ---
+src/components/db/mongo_connection.py
+
+# --- Testes e cobertura ---
+.coverage
+htmlcov/
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.mo
+*.pot
+
+# --- Build ---
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --- Documentação ---
+docs/_build/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+
+# --- IDEs ---
+*.swp
+.idea/
