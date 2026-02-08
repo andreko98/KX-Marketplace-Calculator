@@ -15,7 +15,7 @@ venv/
 .vscode/
 
 # --- Arquivos específicos ---
-src/components/db/mongo_connection.py
+db/mongo_connection.py
 
 # --- Testes e cobertura ---
 .coverage
